@@ -75,7 +75,7 @@ Put trailing commas EVERYWHERE except nonvariable function arguments or one-line
 ]
 ```
 
-All exports should have the ```export``` keyword on the same line, and should be ```const``` if possible. Avoid the ```default``` keyword.
+All exports should have the `export` keyword on the same line, and should be `const` if possible. Avoid the `default` keyword.
 ```js
 // Good
 export class MyClass {
@@ -95,7 +95,7 @@ export let myFunction = () => {
 ___
 Always, ALWAYS, use semicolons.
 ___
-When creating functions, set the function variable equal to a lambda (ES6 syntax) rather than traditional ES5 ```function``` syntax.
+When creating functions, set the function variable equal to a lambda (ES6 syntax) rather than traditional ES5 `function` syntax.
 ```js
 // Good
 let myFunction = () => {
@@ -106,7 +106,7 @@ function myFunction() {
 }
 ```
 
-Always use ```let``` over ```var``` when possible.
+Always use `let` over `var` when possible.
 ```js
 // Good
 let myVar = 3;
