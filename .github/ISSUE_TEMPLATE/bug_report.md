@@ -2,7 +2,7 @@
 name: Bug report
 about: Report bugs in code
 title: ''
-labels: bug
+labels: bug, requests/reports
 assignees: AiDorneich
 
 ---
