@@ -1,0 +1,7 @@
+## IDE folders
+.vscode      ## Visual Studio Code
+.idea        ## JetBrains products (specifically WebStorm)
+.replit      ## Repl.it
+
+## Language types
+*.py         ## Python
