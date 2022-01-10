@@ -105,7 +105,7 @@ let myFunction = () => {
 function myFunction() {
 }
 ```
-
+___
 Always use `let` over `var` when possible.
 ```js
 // Good
