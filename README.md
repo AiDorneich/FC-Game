@@ -1,2 +1,2 @@
 # Kaboom Game
-Making a game with KaboomJS just for fun.
+Making a game with KaboomJS just for fun. Join us!
