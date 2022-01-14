@@ -1,2 +1,2 @@
 # FC Game
-Making a game just for fun. Join us!
+Making a game with Unity just for fun. Join us!
