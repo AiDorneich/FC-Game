@@ -6,6 +6,7 @@
 
 [Styleguides](#styleguides)
 - [JS Styleguide](#js-styleguide)
+- [C# Styleguide](#c-styleguide)
 
 [File Structure](#file-structure)
 
@@ -130,6 +131,10 @@ export const MY_FUNCTION = () => {
 ___
 It is generally a good idea to export all primitive constants.
 ___
+### C# Styleguide
+
+TL;DR: We're just generally following C# convention here. Don't worry too much about convention. Just remember this: COMMENTS, COMMENTS, COMMENTS.
+
 ## File Structure
 
 More specifications coming soon on file structure and locations.
